@@ -221,6 +221,3 @@ The analysis can help businesses:
 - Support data-driven business decisions
 
 ---
-
-
-    └── Profit_Analysis.png
